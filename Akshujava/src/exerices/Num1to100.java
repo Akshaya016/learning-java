@@ -1,4 +1,4 @@
-package Exerices;
+package exerices;
 
 public class Num1to100 {
 

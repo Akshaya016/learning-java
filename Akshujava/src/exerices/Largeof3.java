@@ -1,4 +1,4 @@
-package Exerices;
+package exerices;
 import java.util.Scanner;
 public class Largeof3 {
 
